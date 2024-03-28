@@ -1,4 +1,4 @@
-# Data-Analysis
+# DataAnalytics-Portfolio-Projects
 
 [Eatsure Data Exploration Case Study using SQL](https://github.com/Baishaki-sfdc/Eatsure-DataExploration-Using-SQL)<br/><br/>
 
