@@ -1,4 +1,5 @@
 # DataAnalytics-Portfolio-Projects
+ You're welcome to explore the various projects in my portfolio.
 
 [Eatsure Data Exploration Case Study using SQL](https://github.com/Baishaki-sfdc/Eatsure-DataExploration-Using-SQL)<br/><br/>
 
