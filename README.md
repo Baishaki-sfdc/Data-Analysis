@@ -3,6 +3,6 @@
 [Eatsure Data Exploration Case Study using SQL](https://github.com/Baishaki-sfdc/Eatsure-DataExploration-Using-SQL)<br/><br/>
 
 [Music Store Data exploration using SQL](https://github.com/Baishaki-sfdc/Spolify-Data-Analysis_SQL)</br></br>
-[MDFC Bank Loan Analysis using SQL & Power BI](https://github.com/Baishaki-sfdc/Bank-Loan-Analysis_Power-BI)
+[MDFC Bank Loan Analysis using SQL & Power BI](https://github.com/Baishaki-sfdc/Bank-Loan-Analysis_Power-BI)<br/>
 [Data Visualizations using PowerBI](https://www.novypro.com/profile_projects/baishakidas)
 
