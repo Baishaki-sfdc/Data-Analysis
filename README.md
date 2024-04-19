@@ -12,6 +12,6 @@
 
 ## Python Projects
 * Data Exploration:
-  
+[Flipkart Sales](https://github.com/Baishaki-sfdc/Flipkart-Sales-EDA-Python)
 * Web Scraping<br/>  
 [Webscrape Amazon Data](https://github.com/Baishaki-sfdc/WebScrape-Amazon-Product--Data)
