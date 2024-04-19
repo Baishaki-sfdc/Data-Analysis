@@ -12,6 +12,7 @@
 
 ## Python Projects
 * Data Exploration:
+  [Webscrape Amazon Data](https://github.com/Baishaki-sfdc/WebScrape-Amazon-Product--Data)
 * Web Scraping
   
 
