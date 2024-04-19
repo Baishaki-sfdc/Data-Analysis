@@ -11,7 +11,7 @@
 [Data Visualizations using PowerBI](https://www.novypro.com/profile_projects/baishakidas)<br/><br/>
 
 ## Python Projects
-* Data Exploration:
+* Data Exploration:<br/>
 [Flipkart Sales](https://github.com/Baishaki-sfdc/Flipkart-Sales-EDA-Python)
 * Web Scraping<br/>  
 [Webscrape Amazon Data](https://github.com/Baishaki-sfdc/WebScrape-Amazon-Product--Data)
