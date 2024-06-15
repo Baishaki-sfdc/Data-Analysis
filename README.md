@@ -14,4 +14,9 @@
 * Data Exploration:<br/>
 [Flipkart Sales](https://github.com/Baishaki-sfdc/Flipkart-Sales-EDA-Python)
 * Web Scraping<br/>  
-[Webscrape Amazon Data](https://github.com/Baishaki-sfdc/WebScrape-Amazon-Product--Data)
+[Webscrape Amazon Data](https://github.com/Baishaki-sfdc/WebScrape-Amazon-Product--Data)<br/>
+
+## Customer Segmentation for Retail Store 
+### Create customer segments(https://github.com/Baishaki-sfdc/Customer-Segmentation)
+
+
