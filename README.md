@@ -17,7 +17,7 @@
 [Webscrape Amazon Data](https://github.com/Baishaki-sfdc/WebScrape-Amazon-Product--Data)<br/>
 
 ## Customer Segmentation for Retail Store 
-[Create customer segments](https://github.com/Baishaki-sfdc/Customer-Segmentation)
+[Create customer segments](https://github.com/Baishaki-sfdc/Customer-Segmentation)<br/>
 [Customer Behaviour Analysis](https://github.com/Baishaki-sfdc/Ecommerce-Customer-Behaviour-Analysis)
 
 
