@@ -18,5 +18,6 @@
 
 ## Customer Segmentation for Retail Store 
 [Create customer segments](https://github.com/Baishaki-sfdc/Customer-Segmentation)
+[Customer Behaviour Analysis](https://github.com/Baishaki-sfdc/Ecommerce-Customer-Behaviour-Analysis)
 
 
